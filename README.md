@@ -19,3 +19,7 @@ Power BI • DAX • power query • Data Visualization
 ## Objective
 
 To transform raw ecommerce data into a clear, interactive business dashboard that helps identify sales trends, profitable categories, customer behavior, and regional performance.
+
+# Dashboard preview 
+
+
