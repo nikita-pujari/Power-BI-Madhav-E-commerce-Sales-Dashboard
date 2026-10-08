@@ -22,4 +22,5 @@ To transform raw ecommerce data into a clear, interactive business dashboard tha
 
 # Dashboard preview 
 
+Dashboard.png
 
