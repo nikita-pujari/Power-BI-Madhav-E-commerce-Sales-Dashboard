@@ -2,21 +2,20 @@
 
 ## Project Overview 
 
-An interactive Power BI dashboard built to analyze ecommerce sales performance and uncover actionable business insights.
+An interactive Power BI dashboard developed to analyze ecommerce sales performance and uncover actionable business insights. The dashboard provides an overview of sales , quantity,profit,customer performance, product categories, payment methods and regional sales trends.
 
 ## Key Highlights
 
-* ₹438K in total sales
-* 5.6K units sold
-* 37K total orders
-* ₹121K profit generated
-* Analysis of sales, profit, quantity, customers & product categories
-* Interactive filtering by state, category, payment method and time
+- ₹438K in total sales
+- 6k total quantity sold
+- 37K total profit generated 
+- Analysis of sales, profit, quantity, customer performance & product categories
+-Interactive filtering by state, category, payment method and time
 
 ##  Tools Used
 
-Power BI • DAX • Data Visualization
+Power BI • DAX • power query • Data Visualization
 
 ## Objective
 
-To transform raw ecommerce data into a clear, interactive business dashboard** that helps identify sales trends, profitable categories, customer behavior, and regional performance.
+To transform raw ecommerce data into a clear, interactive business dashboard that helps identify sales trends, profitable categories, customer behavior, and regional performance.
