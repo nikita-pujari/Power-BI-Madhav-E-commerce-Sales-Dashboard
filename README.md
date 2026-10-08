@@ -22,5 +22,5 @@ To transform raw ecommerce data into a clear, interactive business dashboard tha
 
 # Dashboard preview 
 
-! [dashboard](Dashboard.png)
+! [Madhav E-commerce Dashboard](Madhav_E-commerce_Dashboard.png)
 
